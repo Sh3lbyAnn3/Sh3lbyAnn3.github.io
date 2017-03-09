@@ -1,0 +1,16 @@
+h1 {font-size:50px;
+} 
+h1 {color:black;
+}
+h2 {font-size:36px;
+}
+h2 {color:pink;}
+h3 {color:grey;}
+ol {color:grey;}
+ol {font-size:24px}
+.resize {width: 400px;
+         height: auto;
+}
+a {color:hotpink;}
+h3 {width:400px;}
+h3 {font-family: "Times New Roman", Times, serif;}
